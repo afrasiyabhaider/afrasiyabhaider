@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=afrasiyabhaider)
+
+I possess a broad and sophisticated skill set, developed over 7+ years of experience. I've worked on projects in a variety of capacities, and have a proven track record of success in a wide range of development fields. I have a diverse set experience. My core technical skill set is in PHP, Laravel and Vue.js, but I have worked with a number of other stacks as well, including MySQL, REST APIs, JavaScript, Ajax, HTML5, and CSS. I have to cope with different challenges every day because "Learning never ends". As a team member, I always go above and beyond to find a reasonable solution to a problem. Quality has always been my number one priority.
+
+
 <!--
 **afrasiyabhaider/afrasiyabhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
