@@ -3,16 +3,15 @@
 <p>
   I am a full-stack web developer with an extensive toolkit of technologies, including Laravel, PHP, VueJS, MySQL, JavaScript, and many more.
 
-🚀 Proven Laravel Specialist
-🌐 VueJS Virtuoso
-🌍 API Development & Integration Maestro
-🐞 Bug Fixing Guru
-🔧 Feature Development Expert
-📊 Jira & GitHub/GitLab Aficionado
-🧪 PHPUnit & MVC Advocate
-🔍 Repository Pattern Enthusiast
-📈 SEO-Friendly Development
-👥 Client-Centric Approach
+🚀 Proven Laravel Specialist <br>
+🌐 VueJS Virtuoso <br>
+🌍 API Development & Integration Maestro <br>
+🐞 Bug Fixing Guru <br>
+🔧 Feature Development Expert <br>
+📊 Jira & GitHub/GitLab Aficionado <br>
+🧪 PHPUnit & MVC Advocate <br>
+🔍 Repository Pattern Enthusiast <br>
+📈 SEO-Friendly Development <br>
 
 🚀 Proven Laravel Specialist:
 With a strong command of Laravel, I create robust and scalable web applications that are known for their security and performance. Whether it's building from the ground up or optimizing existing systems, I excel in delivering exceptional results.
@@ -41,8 +40,6 @@ Implementing the Repository Pattern, I enhance code maintainability and separati
 📈 SEO-Friendly Development:
 My coding practices prioritize SEO best practices, ensuring that your web applications rank well in search engine results and attract organic traffic.
 
-👥 Client-Centric Approach:
-I'm committed to open and transparent communication, ensuring that your project's progress aligns with your expectations. Client satisfaction is my top priority.
 
 </p>
 
