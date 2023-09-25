@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=afrasiyabhaider)
 <h1 align="">Hi 👋, I'm Afrasiyab Haider</h1>
 <p>
-  Are you seeking a dynamic and results-driven web developer who can elevate your digital projects to new heights? Your search ends here! I am a highly skilled full-stack web developer with an extensive toolkit of technologies, including Laravel, PHP, VueJS, MySQL, JavaScript, and many more.
-
-Why Choose Me?
+  I am a full-stack web developer with an extensive toolkit of technologies, including Laravel, PHP, VueJS, MySQL, JavaScript, and many more.
 
 🚀 Proven Laravel Specialist
 🌐 VueJS Virtuoso
