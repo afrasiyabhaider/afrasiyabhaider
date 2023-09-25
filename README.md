@@ -1,7 +1,75 @@
-### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=afrasiyabhaider)
+<h1 align="">Hi 👋, I'm Afrasiyab Haider</h1>
+<p>
+  Are you seeking a dynamic and results-driven web developer who can elevate your digital projects to new heights? Your search ends here! I am a highly skilled full-stack web developer with an extensive toolkit of technologies, including Laravel, PHP, VueJS, MySQL, JavaScript, and many more.
 
-I possess a broad and sophisticated skill set, developed over 7+ years of experience. I've worked on projects in a variety of capacities, and have a proven track record of success in a wide range of development fields. I have a diverse set experience. My core technical skill set is in PHP, Laravel and Vue.js, but I have worked with a number of other stacks as well, including MySQL, REST APIs, JavaScript, Ajax, HTML5, and CSS. I have to cope with different challenges every day because "Learning never ends". As a team member, I always go above and beyond to find a reasonable solution to a problem. Quality has always been my number one priority.
+Why Choose Me?
+
+🚀 Proven Laravel Specialist
+🌐 VueJS Virtuoso
+🌍 API Development & Integration Maestro
+🐞 Bug Fixing Guru
+🔧 Feature Development Expert
+📊 Jira & GitHub/GitLab Aficionado
+🧪 PHPUnit & MVC Advocate
+🔍 Repository Pattern Enthusiast
+📈 SEO-Friendly Development
+👥 Client-Centric Approach
+
+🚀 Proven Laravel Specialist:
+With a strong command of Laravel, I create robust and scalable web applications that are known for their security and performance. Whether it's building from the ground up or optimizing existing systems, I excel in delivering exceptional results.
+
+🌐 VueJS Virtuoso:
+I harness the power of VueJS to craft user-friendly, interactive, and visually stunning front-end interfaces that captivate your audience and keep them engaged.
+
+🌍 API Development & Integration Maestro:
+Seamlessly integrating APIs into your web applications is my forte. I ensure that your systems communicate effectively, providing a unified and data-rich user experience.
+
+🐞 Bug Fixing Guru:
+I thrive on solving complex problems and debugging issues efficiently. My keen eye for detail ensures that your web applications are bug-free and operate flawlessly.
+
+🔧 Feature Development Expert:
+I specialize in extending the functionality of web applications and turning your ideas into reality. I'm dedicated to bringing your vision to life through innovative feature development.
+
+📊 Jira & GitHub/GitLab Aficionado:
+I streamline project management using Jira and maintain organized code repositories on GitHub/GitLab. This results in efficient collaboration, transparency, and on-time project delivery.
+
+🧪 PHPUnit & MVC Advocate:
+I adhere to best practices and follow the Model-View-Controller (MVC) pattern to build structured and maintainable code. PHPUnit ensures that your applications are rigorously tested and reliable.
+
+🔍 Repository Pattern Enthusiast:
+Implementing the Repository Pattern, I enhance code maintainability and separation of concerns, leading to more modular and maintainable applications.
+
+📈 SEO-Friendly Development:
+My coding practices prioritize SEO best practices, ensuring that your web applications rank well in search engine results and attract organic traffic.
+
+👥 Client-Centric Approach:
+I'm committed to open and transparent communication, ensuring that your project's progress aligns with your expectations. Client satisfaction is my top priority.
+
+</p>
+
+
+- 👯 I’m looking to collaborate on **anything that is challenging**
+
+### Fun PHP Fact
+
+Did you know that PHP originally stood for "Personal Home Page"? It was created by Rasmus Lerdorf in 1994 to manage his personal website's traffic and forms. Over the years, PHP has evolved into a powerful server-side scripting language used by millions of developers worldwide for building dynamic web applications. From humble beginnings to a web development powerhouse, PHP has come a long way! 😄🚀
+
+
+📫 How to reach me **afrasiyab7550@gamail.com**
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/afrasiyab-haider/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskarti" height="30" width="40" />
+</a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrasiyabhaider&show_icons=true&locale=en&layout=compact" alt="afrasiyabhaider" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrasiyabhaider&show_icons=true&locale=en" alt="afrasiyabhaider" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrasiyabhaider" alt="afrasiyabhaider" /></p>
 
 
 <!--
