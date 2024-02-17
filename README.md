@@ -51,7 +51,7 @@ My coding practices prioritize SEO best practices, ensuring that your web applic
 Did you know that PHP originally stood for "Personal Home Page"? It was created by Rasmus Lerdorf in 1994 to manage his personal website's traffic and forms. Over the years, PHP has evolved into a powerful server-side scripting language used by millions of developers worldwide for building dynamic web applications. From humble beginnings to a web development powerhouse, PHP has come a long way! 😄🚀
 
 
-📫 How to reach me **afrasiyab7550@gamail.com**
+📫 How to reach me **ping.afrasiyab.haider@gmail.com**
 
 ### Connect with me:
 <p align="left">
