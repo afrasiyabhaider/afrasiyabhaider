@@ -1,71 +1,105 @@
-![](https://komarev.com/ghpvc/?username=afrasiyabhaider)
-<h1 align="">Hi 👋, I'm Afrasiyab Haider</h1>
-<p>
-  I am a full-stack web developer with an extensive toolkit of technologies, including Laravel, PHP, VueJS, MySQL, JavaScript, and many more.
+---
 
-🚀 Proven Laravel Specialist <br>
-🌐 VueJS Virtuoso <br>
-🌍 API Development & Integration Maestro <br>
-🐞 Bug Fixing Guru <br>
-🔧 Feature Development Expert <br>
-📊 Jira & GitHub/GitLab Aficionado <br>
-🧪 PHPUnit & MVC Advocate <br>
-🔍 Repository Pattern Enthusiast <br>
-📈 SEO-Friendly Development <br>
+# 👋 Hi, I'm Afrasiyab Haider!  
 
-🚀 Proven Laravel Specialist:
-With a strong command of Laravel, I create robust and scalable web applications that are known for their security and performance. Whether it's building from the ground up or optimizing existing systems, I excel in delivering exceptional results.
+![Profile Views](https://komarev.com/ghpvc/?username=afrasiyabhaider&color=blue&style=flat)  
 
-🌐 VueJS Virtuoso:
-I harness the power of VueJS to craft user-friendly, interactive, and visually stunning front-end interfaces that captivate your audience and keep them engaged.
+Welcome to my GitHub! 🚀 With over **8 years** of experience as a **full-stack web developer**, I specialize in building **high-performance web applications** that are both secure and scalable. My expertise spans **front-end** and **back-end development**, and I'm passionate about delivering innovative, user-centric solutions.
 
-🌍 API Development & Integration Maestro:
-Seamlessly integrating APIs into your web applications is my forte. I ensure that your systems communicate effectively, providing a unified and data-rich user experience.
+---
 
-🐞 Bug Fixing Guru:
-I thrive on solving complex problems and debugging issues efficiently. My keen eye for detail ensures that your web applications are bug-free and operate flawlessly.
+### 🚀 **Core Skills and Expertise**  
+- **Backend Development**:  
+  - **Laravel**, **Lumen**, **PHP**, and **RESTful APIs**.  
+  - Expertise in **Micro-services** and scalable architecture.  
+  - Deep experience in **MySQL** and **Postgres** database management.  
+  - Advanced proficiency in **Redis** for caching and performance optimization.
 
-🔧 Feature Development Expert:
-I specialize in extending the functionality of web applications and turning your ideas into reality. I'm dedicated to bringing your vision to life through innovative feature development.
+- **Frontend Development**:  
+  - Expertise in **Vue.js**, **HTML5**, **CSS3**, **Bootstrap**, and **Svelte** for responsive, modern UIs.  
+  - **JavaScript**, **Ajax** for dynamic, client-side features.  
 
-📊 Jira & GitHub/GitLab Aficionado:
-I streamline project management using Jira and maintain organized code repositories on GitHub/GitLab. This results in efficient collaboration, transparency, and on-time project delivery.
+- **Testing & Quality Assurance**:  
+  - Strong advocate of **Unit Testing** using **PHPUnit**.  
+  - Building maintainable and bug-free applications with thorough testing.  
 
-🧪 PHPUnit & MVC Advocate:
-I adhere to best practices and follow the Model-View-Controller (MVC) pattern to build structured and maintainable code. PHPUnit ensures that your applications are rigorously tested and reliable.
+- **Project Accomplishments**:  
+  - Built **POS systems**, **CMS**, **CRM solutions**, and **eCommerce platforms**.  
+  - Developed **business websites**, **video collaboration tools**, and **project management systems**.
 
-🔍 Repository Pattern Enthusiast:
-Implementing the Repository Pattern, I enhance code maintainability and separation of concerns, leading to more modular and maintainable applications.
+- **Tooling & Libraries**:  
+  - Integrated tools like **Laravel Passport**, **Cashier**, **Telescope**, and **Voyager**.  
+  - Experience with **FFmpeg** for multimedia processing.  
 
-📈 SEO-Friendly Development:
-My coding practices prioritize SEO best practices, ensuring that your web applications rank well in search engine results and attract organic traffic.
+- **Version Control**:  
+  - Advanced use of **Git**, **GitHub**, **GitLab**, and **BitBucket** for collaboration and code management.
 
+---
 
-</p>
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+Let’s build clean, impactful, and robust applications together!  
 
+---  
 
-- 👯 I’m looking to collaborate on **anything that is challenging**
+### 📊 **GitHub Stats & Insights**
 
-### Fun PHP Fact
+#### **Activity Overview**  
+Here’s an overview of my GitHub activity, including contributions, commits, and repositories:
 
-Did you know that PHP originally stood for "Personal Home Page"? It was created by Rasmus Lerdorf in 1994 to manage his personal website's traffic and forms. Over the years, PHP has evolved into a powerful server-side scripting language used by millions of developers worldwide for building dynamic web applications. From humble beginnings to a web development powerhouse, PHP has come a long way! 😄🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrasiyabhaider&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="60%" />
+</div>
 
+---
 
-📫 How to reach me **ping.afrasiyab.haider@gmail.com**
+#### **Most Used Languages**  
+Below are the languages I use most frequently in my repositories:
 
-### Connect with me:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afrasiyabhaider&layout=compact&theme=radical" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+#### **GitHub Trophies**  
+Here are some of my GitHub achievements and contributions:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afrasiyabhaider&theme=radical&row=1&column=6&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="60%" />
+</div>
+
+---
+
+#### **Contribution Streak**  
+Check out my contribution streak and activity over time:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrasiyabhaider&theme=radical" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+### 🤓 **Programming Fun Fact**  
+🧠 *Did you know?*  
+**Refresh the page to discover a new fun fact!**  
+
+![Programming Fun Fact](https://readme-jokes.vercel.app/api)
+
+---
+
+### 📫 **Let’s Collaborate!**  
+I’m always eager to collaborate on exciting and challenging projects. **[Let’s create something amazing together!](mailto:ping.afrasiyab.haider@gmail.com)**  
+
+---
+
+### 🌐 **Connect With Me**  
 <p align="left">
-<a href="https://www.linkedin.com/in/afrasiyab-haider/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskarti" height="30" width="40" />
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/afrasiyab-haider/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="18" />
+  </a>
+</p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrasiyabhaider&show_icons=true&locale=en&layout=compact" alt="afrasiyabhaider" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrasiyabhaider&show_icons=true&locale=en" alt="afrasiyabhaider" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrasiyabhaider" alt="afrasiyabhaider" /></p>
-
+---
 
 <!--
 **afrasiyabhaider/afrasiyabhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
